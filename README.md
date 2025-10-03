@@ -1,5 +1,3 @@
-# Banking-Financial-Data-Analytics-Project
-
 # 📊 Banking Financial Data Analytics Project
 
 ## 🔹 Overview
