@@ -1,12 +1,5 @@
 # Banking-Financial-Data-Analytics-Project
 
-Perfect 🙌 You already have a **banking financial analytics project with PySpark + ML**.
-Now, I’ll help you create a **GitHub-style documentation (README.md)** that explains your project clearly for recruiters or collaborators.
-
-Here’s a polished version:
-
----
-
 # 📊 Banking Financial Data Analytics Project
 
 ## 🔹 Overview
